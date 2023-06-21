@@ -1,0 +1,8 @@
+creds.py
+venv/
+__pycache/
+session.session
+*.pyc
+*.xml
+*.iml
+.DS_Store
